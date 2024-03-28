@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap')
+
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+.text-header { 
+    color: red; 
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 28px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: ;
+}
+#text-header {
+    color: rgb(83, 83, 240)
+}
+h1 {
+   color: greenyellow 
+}
+.container {
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
